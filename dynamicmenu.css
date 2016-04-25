@@ -1,7 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Play:400,700);
-
-font-family:'Play',sans-serif !important;
-
 /* REMOVE MFL DEFAULT MENU */
 #menu0 {
     display:none!important;
@@ -100,7 +96,6 @@ ul.pureCssMenu a {
     text-decoration:none;
     padding:2px 5px 2px 5px;
     _padding-left:0;
-    font-family:'Play',sans-serif !important;
     font-weight:normal;
     font-size:8pt;
     color: #000;
@@ -160,7 +155,7 @@ ul.pureCssMenu.pureCssMenum li.pureCssMenui ul.pureCssMenum a {
     text-transform:none;
     font-size:9pt;
     color:#000000;
-    font-variant:small-caps
+    
 }
 ul.pureCssMenu.pureCssMenum li.pureCssMenui ul.pureCssMenum div.subcontainer li.pureCssMenui:hover>a{
     background-color:#000000;
