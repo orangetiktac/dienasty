@@ -111,14 +111,14 @@ ul.pureCssMenu a {
 }
 ul.pureCssMenu li:hover>a{
     color:#FFFFFF;
-    background-color:#ee4f20;
+    background-color:#000000;
 }
 
 
 /* IMAGES SETTINGS FOR MAIN MENU */
 ul.pureCssMenu span{
     display:block;
-    background-image:url(http://nitrografixx.com/habman_dynamic_menu/arr_orange.png);
+    background-image:url(http://nitrografixx.com/habman_dynamic_menu/arr_black.png);
     background-position:right center;
     background-repeat: no-repeat;
     padding-right:12px;
@@ -131,7 +131,7 @@ ul.pureCssMenu li:hover a span{
 /* IMAGES SETTINGS FOR SUB MENU */
 ul.pureCssMenu.pureCssMenum div.subcontainer span{
     display:block;
-    background-image:url(http://nitrografixx.com/habman_dynamic_menu/arr_orange.png);
+    background-image:url(http://nitrografixx.com/habman_dynamic_menu/arr_black.png);
     background-position:right center;
     background-repeat: no-repeat;
     padding-right:12px;
@@ -147,8 +147,8 @@ ul.pureCssMenu.pureCssMenum li.pureCssMenui ul.pureCssMenum {
     background:url(http://nitrografixx.com/habman_dynamic_menu/iefix_bg.png);
 }
 ul.pureCssMenu.pureCssMenum li.pureCssMenui ul.pureCssMenum .subcontainer {
-    background:#FFFFFF;
-    border:1px solid #ee4f20;
+    background:#FFFFFF opacity:0.8;
+    border:1px solid #000000;
     padding:0px 0px 2px 0px;
     margin:0px;
     width:auto;
@@ -163,7 +163,7 @@ ul.pureCssMenu.pureCssMenum li.pureCssMenui ul.pureCssMenum a {
     font-variant:small-caps
 }
 ul.pureCssMenu.pureCssMenum li.pureCssMenui ul.pureCssMenum div.subcontainer li.pureCssMenui:hover>a{
-    background-color:#ee4f20;
+    background-color:#000000;
     color:#FFFFFF;
 }
 
@@ -175,8 +175,8 @@ ul#menu ul.pureCssMenu.pureCssMenum li.pureCssMenui ul.pureCssMenum div.subconta
     padding:0px 2px 0px 6px;
 }
 ul.pureCssMenu.pureCssMenum li.pureCssMenui ul.pureCssMenum .subcontainerfly {
-    background:#FFFFFF;
-    border:1px solid #ee4f20;
+    background:#FFFFFF opacity:0.8;
+    border:1px solid #000000;
     padding:0px 0px 2px 0px;
     margin:0px;
     width:auto;
@@ -186,14 +186,14 @@ ul.pureCssMenu.pureCssMenum li.pureCssMenui ul.pureCssMenum div.subcontainer li.
     background:#FFFFFF;
 }
 ul.pureCssMenu.pureCssMenum li.pureCssMenui ul.pureCssMenum div.subcontainer li.pureCssMenui  ul.pureCssMenum a:hover{
-    background-color:#ee4f20;
+    background-color:#000000;
     color: #FFFFFF;
 }
 
 /* REPORTS PLAYER SEARCH INPUT SETTINGS */
 ul#menu ul li ul div li a span form input {
     font-size:10px;
-    color:#ee4f20;
+    color:#000000;
     padding:0;
     margin-left:4px;
 }
