@@ -139,10 +139,10 @@ ul.pureCssMenu.pureCssMenum div.subcontainer li:hover>a>span{
 /* SETTINGS FOR SUB MENUS */
 ul.pureCssMenu.pureCssMenum li.pureCssMenui ul.pureCssMenum {
     padding-top:5px;
-    background:url(http://nitrografixx.com/habman_dynamic_menu/iefix_bg.png) opacity:0.5;
+    background:url(http://nitrografixx.com/habman_dynamic_menu/iefix_bg.png);
 }
 ul.pureCssMenu.pureCssMenum li.pureCssMenui ul.pureCssMenum .subcontainer {
-    background:#FFFFFF opacity:0.5;
+    background:#FFFFFF;
     border:1px solid #000000;
     padding:0px 0px 2px 0px;
     margin:0px;
@@ -165,12 +165,12 @@ ul.pureCssMenu.pureCssMenum li.pureCssMenui ul.pureCssMenum div.subcontainer li.
 
 /* SETTINGS FOR SUB MENU RIGHT FLYOUT */
 ul#menu ul.pureCssMenu.pureCssMenum li.pureCssMenui ul.pureCssMenum div.subcontainer li.pureCssMenui  ul.pureCssMenum {
-    background:url(http://nitrografixx.com/habman_dynamic_menu/iefix_bg.png) opacity:0.5;
+    background:url(http://nitrografixx.com/habman_dynamic_menu/iefix_bg.png);
     margin-top:-1px;
     padding:0px 2px 0px 6px;
 }
 ul.pureCssMenu.pureCssMenum li.pureCssMenui ul.pureCssMenum .subcontainerfly {
-    background:#FFFFFF opacity:0.5;
+    background:#FFFFFF;
     border:1px solid #000000;
     padding:0px 0px 2px 0px;
     margin:0px;
